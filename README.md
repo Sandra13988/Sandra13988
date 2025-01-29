@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola, soy Sandra! 👋  
 
-<!--
-**Sandra13988/Sandra13988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora web con experiencia en **React, Angular, JavaScript, Java, PHP y CMS**.  
+🚀 Actualmente aprendiendo sobre **Inteligencia Artificial y Big Data**.  
+🎯 Me interesa el desarrollo frontend y la optimización SEO.  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías y herramientas  
+- **Lenguajes:** Java, JavaScript, PHP, HTML, CSS  
+- **Frameworks:** Angular, React  
+- **Bases de datos:** MongoDB, MySQL  
+- **Otros:** Git, PrestaShop, WordPress  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Conéctate conmigo  
+🔗 [LinkedIn](https://www.linkedin.com/in/sandra-rubio-sanchez/) | 📩 [Email](mailto:sandra13988@gmail.com)  
+
+🌱 _Siempre aprendiendo algo nuevo_ 🚀  
